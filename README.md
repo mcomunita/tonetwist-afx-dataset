@@ -32,7 +32,7 @@ Pre-processing:
 
 ### Compressor
 
-- [Compressor 1](Compressor 1)
+- [Ampeg Optocomp](https://zenodo.org/uploads/10465454)
 - [Compressor 2](Compressor 2)
 
 ### Overdrive
@@ -56,4 +56,15 @@ Pre-processing:
 - [Tremolo 1](Tremolo 2)
 
 ---
+
 ## Digital Effects
+
+---
+
+## References
+
+If you make use of AUDIO EFFECTS DATASET, please cite the following publication:
+
+```
+@article{TBD}
+```
