@@ -1,10 +1,11 @@
 # AUDIO EFFECTS DATASET
 
+---
 ## Dry Inputs
 
 [https://zenodo.org/uploads/10455730](https://zenodo.org/uploads/10455730)
 
-Dry inputs are a selection of clean guitar and bass recordings from different sources:
+Dry inputs are a selection of clean guitar and bass recordings from several sources:
 
 - [IDMT-SMT-GUITAR](https://www.idmt.fraunhofer.de/en/publications/datasets/guitar.html) - dataset 2 (7:23 min)
 - [IDMT-SMT-GUITAR](https://www.idmt.fraunhofer.de/en/publications/datasets/guitar.html) - dataset 4 - Career SG (6:08 min)
@@ -27,7 +28,13 @@ Pre-processing:
   - signal multiplied by random number every 5 seconds (uniform distribution [0.1, 1.0] = [-20dB, 0dB])
 
 ---
+## External Data
 
+This repo contains also links to external sources (i.e., data recorded by others for scientific publication purposes or personal projects). In these cases the dry inputs will be different from the ones described above and will have a separate link for download.
+
+Attributions to the original authors are included in this repo and references to publication, code, webpage etc. are included in a README file.
+
+---
 ## Analog Effects
 
 ### Compressor
@@ -56,11 +63,9 @@ Pre-processing:
 - [Tremolo 1](Tremolo 2)
 
 ---
-
 ## Digital Effects
 
 ---
-
 ## References
 
 If you make use of AUDIO EFFECTS DATASET, please cite the following publication:
