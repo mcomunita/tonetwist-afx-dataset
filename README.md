@@ -44,7 +44,7 @@ Attributions to the original authors are included in this repo and references to
 ### Compressor
 
 - [Ampeg Optocomp](https://zenodo.org/uploads/10465454)
-- [Compressor 2](Compressor 2)
+- [Flamma Opto Comp](https://zenodo.org/uploads/10794703)
 
 ### Overdrive
 
@@ -53,8 +53,9 @@ Attributions to the original authors are included in this repo and references to
 
 ### Distortion
 
-- [Harley Benton Big Fur](Distortion 1) - clone of Electro Harmonix Big Muff
-- [Distortion 1](Distortion 2)
+- [Electro Harmonix Metal Muff](https://zenodo.org/uploads/10794659)
+- [Harley Benton Big Fur](https://zenodo.org/uploads/10794737) (similar to Electro Harmonix Big Muff)
+- [Harley Benton Drop Kick](https://zenodo.org/uploads/10794776) (similar to Suhr Riot)
 
 ### Fuzz
 
