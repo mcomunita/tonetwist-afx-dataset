@@ -3,7 +3,7 @@
 ---
 ## Dry Inputs
 
-[https://zenodo.org/uploads/10455730](https://zenodo.org/uploads/10455730)
+Available here: [https://zenodo.org/uploads/10455730](https://zenodo.org/uploads/10455730)
 
 Dry inputs are a selection of clean guitar and bass recordings from several sources:
 
@@ -37,6 +37,10 @@ Attributions to the original authors are included in this repo and references to
 ---
 ## Analog Effects
 
+### Amplifier
+- [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425)
+  - External Source: [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)
+
 ### Compressor
 
 - [Ampeg Optocomp](https://zenodo.org/uploads/10465454)
@@ -44,7 +48,7 @@ Attributions to the original authors are included in this repo and references to
 
 ### Overdrive
 
-- [Harley Benton Green Tint](Overdrive 1) - clone of Ibanez Tube Screamer
+- [Fulltone Full Drive 2](https://zenodo.org/uploads/10794615)
 - [Overdrive 1](Overdrive 2)
 
 ### Distortion
