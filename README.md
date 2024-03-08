@@ -48,6 +48,7 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 - [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425) - [1]
 - [Blackstar HT5 Metal - Channel: Overdrive](https://zenodo.org/uploads/10796501) - [2] 
 - [Engl Retro Tube 50 - Channel: Drive](https://zenodo.org/uploads/10796525) - [2]
+- [Fender Blues Jr](https://zenodo.org/uploads/10797977) - [3]
 - [Ibanez TSA15 - Channel: Crunch](https://zenodo.org/uploads/10796536) - [2]
 - [MesaBoogie 550 - Channel: Clean](https://zenodo.org/uploads/10796557) - [2]
 - [MesaBoogie 550 - Channel: Crunch](https://zenodo.org/uploads/10796819) - [2]
@@ -69,6 +70,7 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 
 - [DIY Klon Centaur](https://zenodo.org/uploads/10797932) - [3]
 - [Fulltone Full Drive 2](https://zenodo.org/uploads/10794615)
+- [Ibanez TS9](https://zenodo.org/uploads/10797988) - [3]
 - [Harley Benton Green Tint](https://zenodo.org/uploads/10796333) (similar to Ibanez Tube Screamer)
 
 ### Distortion
