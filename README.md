@@ -40,6 +40,24 @@ Attributions to the original authors are included in this repo and references to
 ### Amplifier
 - [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425)
   - External Source: [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)
+- [Blackstar HT5 Metal - Channel: Overdrive](https://zenodo.org/uploads/10796501)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+- [Engl Retro Tube 50 - Channel: Drive](https://zenodo.org/uploads/10796525)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+- [Ibanez TSA15 - Channel: Crunch](https://zenodo.org/uploads/10796536)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+- [MesaBoogie 550 - Channel: Clean](https://zenodo.org/uploads/10796557)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+- [MesaBoogie 550 - Channel: Crunch](https://zenodo.org/uploads/10796819)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+- [MesaBoogie 550 - Channel: Burn](https://zenodo.org/uploads/10796547)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+- [MesaBoogie Mark V - Channel: Clean](https://zenodo.org/uploads/10796829)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+- [MesaBoogie Mark V - Channel: Crunch](https://zenodo.org/uploads/10796841)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+- [MesaBoogie Mark V - Channel: Extreme](https://zenodo.org/uploads/10796864)
+  - External Source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
  
 ### Chorus
 - [Landlord Brewers Droop Chorus](https://zenodo.org/uploads/10796408)
@@ -48,6 +66,7 @@ Attributions to the original authors are included in this repo and references to
 
 - [Ampeg Optocomp](https://zenodo.org/uploads/10465454)
 - [Flamma Analog Comp](https://zenodo.org/uploads/10794703)
+- [Yuer Dyna Compressor](https://zenodo.org/uploads/10796426) (similar to Ross Compressor)
 
 ### Overdrive
 
