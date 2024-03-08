@@ -40,32 +40,36 @@ Attributions to the original authors are included in this repo and references to
 ### Amplifier
 - [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425)
   - External Source: [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)
+ 
+### Chorus
+- [Landlord Brewers Droop Chorus](https://zenodo.org/uploads/10796408)
 
 ### Compressor
 
 - [Ampeg Optocomp](https://zenodo.org/uploads/10465454)
-- [Flamma Opto Comp](https://zenodo.org/uploads/10794703)
+- [Flamma Analog Comp](https://zenodo.org/uploads/10794703)
 
 ### Overdrive
 
 - [Fulltone Full Drive 2](https://zenodo.org/uploads/10794615)
-- [Overdrive 1](Overdrive 2)
+- [Harley Benton Green Tint](https://zenodo.org/uploads/10796333) (similar to Ibanez Tube Screamer)
 
 ### Distortion
 
 - [Electro Harmonix Metal Muff](https://zenodo.org/uploads/10794659)
 - [Harley Benton Big Fur](https://zenodo.org/uploads/10794737) (similar to Electro Harmonix Big Muff)
 - [Harley Benton Drop Kick](https://zenodo.org/uploads/10794776) (similar to Suhr Riot)
+- [Harley Benton Plexicon](https://zenodo.org/uploads/10796359)
+- [Harley Benton Rodent](https://zenodo.org/uploads/10796378) (similar to Proco Rat)
 
 ### Fuzz
 
-- [Fuzz 1](Fuzz 1)
-- [Fuzz 1](Fuzz 2)
+- [Harley Benton Fuzzy Logic](https://zenodo.org/uploads/10796322) (similar to Fuzz Face Germanium)
+- [Harley Benton Silly Fuzz](https://zenodo.org/uploads/10796394) (similar to Fuzz Face Silicon)
 
 ### Tremolo
 
-- [Tremolo 1](Tremolo 1)
-- [Tremolo 1](Tremolo 2)
+- [Mooer Trelicopter](https://zenodo.org/uploads/10796416)
 
 ---
 ## Digital Effects
