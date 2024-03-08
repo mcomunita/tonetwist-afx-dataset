@@ -97,7 +97,7 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 
 [1] - [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)\
 [2] - [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)\
-[3] - [https://github.com/GuitarML](https://github.com/GuitarML)
+[3] - [https://github.com/GuitarML](https://github.com/GuitarML)\
 [4] - [https://github.com/mchijmma/DL-AFx](https://github.com/mchijmma/DL-AFx)
 
 ---
