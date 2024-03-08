@@ -45,16 +45,16 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 ## Analog Effects
 
 ### Amplifier
-- [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425)  -- 
-- [Blackstar HT5 Metal - Channel: Overdrive](https://zenodo.org/uploads/10796501) -- 
-- [Engl Retro Tube 50 - Channel: Drive](https://zenodo.org/uploads/10796525) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
-- [Ibanez TSA15 - Channel: Crunch](https://zenodo.org/uploads/10796536) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
-- [MesaBoogie 550 - Channel: Clean](https://zenodo.org/uploads/10796557) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
-- [MesaBoogie 550 - Channel: Crunch](https://zenodo.org/uploads/10796819) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
-- [MesaBoogie 550 - Channel: Burn](https://zenodo.org/uploads/10796547) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
-- [MesaBoogie Mark V - Channel: Clean](https://zenodo.org/uploads/10796829) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
-- [MesaBoogie Mark V - Channel: Crunch](https://zenodo.org/uploads/10796841) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
-- [MesaBoogie Mark V - Channel: Extreme](https://zenodo.org/uploads/10796864) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
+- [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425) - [1]
+- [Blackstar HT5 Metal - Channel: Overdrive](https://zenodo.org/uploads/10796501) - [2] 
+- [Engl Retro Tube 50 - Channel: Drive](https://zenodo.org/uploads/10796525) - [2]
+- [Ibanez TSA15 - Channel: Crunch](https://zenodo.org/uploads/10796536) - [2]
+- [MesaBoogie 550 - Channel: Clean](https://zenodo.org/uploads/10796557) - [2]
+- [MesaBoogie 550 - Channel: Crunch](https://zenodo.org/uploads/10796819) - [2]
+- [MesaBoogie 550 - Channel: Burn](https://zenodo.org/uploads/10796547) - [2]
+- [MesaBoogie Mark V - Channel: Clean](https://zenodo.org/uploads/10796829) - [2]
+- [MesaBoogie Mark V - Channel: Crunch](https://zenodo.org/uploads/10796841) - [2]
+- [MesaBoogie Mark V - Channel: Extreme](https://zenodo.org/uploads/10796864) - [2]
  
 ### Chorus
 - [Landlord Brewers Droop Chorus](https://zenodo.org/uploads/10796408)
@@ -94,7 +94,7 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 ## Sources
 
 [1] - [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)\
-[2] - [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+[2] - [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)\
 [3] - [https://github.com/GuitarML](https://github.com/GuitarML)
 
 ---
