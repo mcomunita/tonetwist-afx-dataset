@@ -56,6 +56,7 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 - [MesaBoogie Mark V - Channel: Clean](https://zenodo.org/uploads/10796829) - [2]
 - [MesaBoogie Mark V - Channel: Crunch](https://zenodo.org/uploads/10796841) - [2]
 - [MesaBoogie Mark V - Channel: Extreme](https://zenodo.org/uploads/10796864) - [2]
+- [Universal Audio 6176 Vintage Channel Strip - 610B Mic Preamp](https://zenodo.org/uploads/10798111) - [4]
  
 ### Chorus
 - [Landlord Brewers Droop Chorus](https://zenodo.org/uploads/10796408)
@@ -64,7 +65,8 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 - [Ampeg Optocomp](https://zenodo.org/uploads/10465454)
 - [Flamma Analog Comp](https://zenodo.org/uploads/10794703)
 - [Yuer Dyna Compressor](https://zenodo.org/uploads/10796426) (similar to Ross Compressor)
-- [Universal Audio 6176 Vintage Channel Strip - 610B Mic Preamp](https://zenodo.org/uploads/10798111)
+- [Universal Audio 6176 Vintage Channel Strip - 1176LN Limiter](https://zenodo.org/uploads/10798151) - [4]
+
 
 ### Overdrive
 - [DIY Klon Centaur](https://zenodo.org/uploads/10797932) - [3]
@@ -96,6 +98,7 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 [1] - [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)\
 [2] - [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)\
 [3] - [https://github.com/GuitarML](https://github.com/GuitarML)
+[4] - [https://github.com/mchijmma/DL-AFx](https://github.com/mchijmma/DL-AFx)
 
 ---
 ## References
