@@ -67,11 +67,13 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 
 ### Overdrive
 
+- [DIY Klon Centaur](https://zenodo.org/uploads/10797932) - [3]
 - [Fulltone Full Drive 2](https://zenodo.org/uploads/10794615)
 - [Harley Benton Green Tint](https://zenodo.org/uploads/10796333) (similar to Ibanez Tube Screamer)
 
 ### Distortion
 
+- [DIY Electro Harmonix Big Muff](https://zenodo.org/uploads/10797916) - [3]
 - [Electro Harmonix Metal Muff](https://zenodo.org/uploads/10794659)
 - [Harley Benton Big Fur](https://zenodo.org/uploads/10794737) (similar to Electro Harmonix Big Muff)
 - [Harley Benton Drop Kick](https://zenodo.org/uploads/10794776) (similar to Suhr Riot)
