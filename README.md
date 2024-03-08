@@ -35,6 +35,13 @@ This repo contains also links to external sources (i.e., data recorded by others
 Attributions to the original authors are included in this repo and references to publication, code, webpage etc. are included in a README file.
 
 ---
+## Controls
+
+Controls are expressed in a range from 0 to 10, corresponding to the positions shown below. If you are contributing to this dataset please follow this convention.
+
+<img src="knob.png" width="150">
+
+---
 ## Analog Effects
 
 ### Amplifier
