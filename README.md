@@ -44,7 +44,7 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 ---
 ## Analog Effects
 
-### Amplifier
+### Amplifier/Preamp
 - [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425) - [1]
 - [Blackstar HT5 Metal - Channel: Overdrive](https://zenodo.org/uploads/10796501) - [2] 
 - [Engl Retro Tube 50 - Channel: Drive](https://zenodo.org/uploads/10796525) - [2]
@@ -60,21 +60,19 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 ### Chorus
 - [Landlord Brewers Droop Chorus](https://zenodo.org/uploads/10796408)
 
-### Compressor
-
+### Compressor/Limiter
 - [Ampeg Optocomp](https://zenodo.org/uploads/10465454)
 - [Flamma Analog Comp](https://zenodo.org/uploads/10794703)
 - [Yuer Dyna Compressor](https://zenodo.org/uploads/10796426) (similar to Ross Compressor)
+- [Universal Audio 6176 Vintage Channel Strip - 610B Mic Preamp](https://zenodo.org/uploads/10798111)
 
 ### Overdrive
-
 - [DIY Klon Centaur](https://zenodo.org/uploads/10797932) - [3]
 - [Fulltone Full Drive 2](https://zenodo.org/uploads/10794615)
 - [Ibanez TS9](https://zenodo.org/uploads/10797988) - [3]
 - [Harley Benton Green Tint](https://zenodo.org/uploads/10796333) (similar to Ibanez Tube Screamer)
 
 ### Distortion
-
 - [DIY Electro Harmonix Big Muff](https://zenodo.org/uploads/10797916) - [3]
 - [Electro Harmonix Metal Muff](https://zenodo.org/uploads/10794659)
 - [Harley Benton Big Fur](https://zenodo.org/uploads/10794737) (similar to Electro Harmonix Big Muff)
@@ -83,12 +81,10 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 - [Harley Benton Rodent](https://zenodo.org/uploads/10796378) (similar to Proco Rat)
 
 ### Fuzz
-
 - [Harley Benton Fuzzy Logic](https://zenodo.org/uploads/10796322) (similar to Fuzz Face Germanium)
 - [Harley Benton Silly Fuzz](https://zenodo.org/uploads/10796394) (similar to Fuzz Face Silicon)
 
 ### Tremolo
-
 - [Mooer Trelicopter](https://zenodo.org/uploads/10796416)
 
 ---
