@@ -45,8 +45,8 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 ## Analog Effects
 
 ### Amplifier
-- [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425)  -- *source: [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)*
-- [Blackstar HT5 Metal - Channel: Overdrive](https://zenodo.org/uploads/10796501) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
+- [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425)  -- 
+- [Blackstar HT5 Metal - Channel: Overdrive](https://zenodo.org/uploads/10796501) -- 
 - [Engl Retro Tube 50 - Channel: Drive](https://zenodo.org/uploads/10796525) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
 - [Ibanez TSA15 - Channel: Crunch](https://zenodo.org/uploads/10796536) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
 - [MesaBoogie 550 - Channel: Clean](https://zenodo.org/uploads/10796557) -- *source: [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)*
@@ -89,6 +89,13 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 
 ---
 ## Digital Effects
+
+---
+## Sources
+
+[1] - [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)\
+[2] - [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)
+[3] - [https://github.com/GuitarML](https://github.com/GuitarML)
 
 ---
 ## References
