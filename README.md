@@ -32,6 +32,11 @@ Pre-processing:
 
 This repo contains also links to external sources (i.e., data recorded by others for scientific publication purposes or personal projects). In these cases the dry inputs will be different from the ones described above and will have a separate link for download.
 
+The reasons to include and re-publish external sources here are several:
+- completeness: we wanted to gather all the amazing work that's been done by the audio effects research community in one place.
+- accessibility: by storing all data on a reliable platform (zenodo) that's going to be always accessible.
+- consistency: we do not simply linked someone else's work, we took care of verifying, pre-processing (where necessary), renaming, reorganizing - so that you can use any data in this repo straight away (no need to write a new dataset class every time).
+
 Attributions to the original authors are included in this repo and references to publication, code, webpage etc. are included in a README file.
 
 ---
