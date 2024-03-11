@@ -51,7 +51,7 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 ---
 # Contributions
 
-We invite anyone to contribute to this repo by recording and publishing more data. We assume you are knowleageable enough to know how to do it properly and we do not aim to verify the data.
+We invite anyone to contribute to this repo by recording and publishing more data. We assume you are knowleageable enough to know how to do it properly and we do not aim to verify new contributions.
 
 Few points:
 - Please use the same naming convention and folder structure used across the whole dataset (look at 1 internal and 1 external source for guidance).
