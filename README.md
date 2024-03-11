@@ -60,7 +60,7 @@ Few points:
 - If you use different dry inputs, you will be considered as an external source. Once the data is published on zenodo, please send a PR request with the link and an external reference.
 
 ---
-## Analog Effects
+## Analog
 
 ### Amplifier/Preamp
 - [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425) - [1]
@@ -108,7 +108,13 @@ Few points:
 - [Mooer Trelicopter](https://zenodo.org/uploads/10796416)
 
 ---
-## Digital Effects
+## Analog Parametric
+
+---
+## Digital
+
+---
+## Digital Parametric
 
 ---
 ## Sources
