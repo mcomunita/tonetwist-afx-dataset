@@ -37,7 +37,9 @@ The reasons to include and re-publish external sources here are several:
 - accessibility: by storing all data on a reliable platform (zenodo) that's going to be always accessible.
 - consistency: we do not simply linked someone else's work, we took care of verifying, pre-processing (where necessary), renaming, reorganizing - so that you can use any data in this repo straight away (no need to write a new dataset class every time).
 
-Attributions to the original authors are included in this repo and references to publication, code, webpage etc. are included in a README file.
+Attributions to the original authors are included in this repo and references to publication, code, webpage, etc., are included in a README file.
+
+If you find your work published here and you are not happy, feel free to contact us.
 
 ---
 ## Controls
@@ -45,6 +47,17 @@ Attributions to the original authors are included in this repo and references to
 Controls are expressed in a range from 0 to 10, corresponding to the positions shown below. If you are contributing to this dataset please follow this convention.
 
 <img src="knob.png" width="150">
+
+---
+# Contributions
+
+We invite anyone to contribute to this repo by recording and publishing more data. We assume you are knowleageable enough to know how to do it properly and we do not aim to verify the data.
+
+Few points:
+- Please use the same naming convention and folder structure used across the whole dataset (look at 1 internal and 1 external source for guidance).
+- Please publish your data on zenodo and include all necessary info (again, take a look at 1 external and 1 internal source for guidance).
+- If you use the dry inputs provided here, you will be considered as an internal source. Once the data is published on zenodo, please send a PR with the link.
+- If you use different dry inputs, you will be considered as an external source. Once the data is published on zenodo, please send a PR request with the link and an external reference.
 
 ---
 ## Analog Effects
