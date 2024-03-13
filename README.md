@@ -55,7 +55,7 @@ We invite anyone to contribute to this repo by recording and publishing more dat
 
 We assume you are knowleageable enough to know how to do it properly and we do not aim to verify new contributions, but here's some tips:
 - together with the dry inputs we included an Audacity project that can be used to set input/output levels and record everything in 1 step (see README file included with the data for further details)
-- with analog effects always use an insulated and filtered PSU (e.g., [https://www.thomann.de/gb/harley_benton_powerplant_iso_5_pro.htm](https://www.thomann.de/gb/harley_benton_powerplant_iso_5_pro.htm)) to prevent excessive noise and hum, especially if you are recording high gain effects.
+- always use an insulated and filtered PSU (e.g., [https://www.thomann.de/gb/harley_benton_powerplant_iso_5_pro.htm](https://www.thomann.de/gb/harley_benton_powerplant_iso_5_pro.htm)) to prevent excessive noise and hum, especially if you are recording high gain effects.
 - before recording, make sure there is no clipping happening anywhere in the chain.
 - make sure you are not driving an effect too much (i.e., unrealistically high output from your audio interface into the effect)
 - as well as not enough (i.e., unrealistically low output from your audio interface into the effect)
