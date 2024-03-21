@@ -103,13 +103,6 @@ Few points:
 - [Yuer Dyna Compressor](https://zenodo.org/uploads/10796426) (similar to Ross Compressor)
 - [Universal Audio 6176 Vintage Channel Strip - 1176LN Limiter](https://zenodo.org/uploads/10798151) - [4]
 
-
-### Overdrive
-- [DIY Klon Centaur](https://zenodo.org/uploads/10797932) - [3]
-- [Fulltone Full Drive 2](https://zenodo.org/uploads/10794615)
-- [Ibanez TS9](https://zenodo.org/uploads/10797988) - [3]
-- [Harley Benton Green Tint](https://zenodo.org/uploads/10796333) (similar to Ibanez Tube Screamer)
-
 ### Distortion
 - [DIY Electro Harmonix Big Muff](https://zenodo.org/uploads/10797916) - [3]
 - [Electro Harmonix Metal Muff](https://zenodo.org/uploads/10794659)
@@ -121,6 +114,12 @@ Few points:
 ### Fuzz
 - [Harley Benton Fuzzy Logic](https://zenodo.org/uploads/10796322) (similar to Fuzz Face Germanium)
 - [Harley Benton Silly Fuzz](https://zenodo.org/uploads/10796394) (similar to Fuzz Face Silicon)
+
+### Overdrive
+- [DIY Klon Centaur](https://zenodo.org/uploads/10797932) - [3]
+- [Fulltone Full Drive 2](https://zenodo.org/uploads/10794615)
+- [Ibanez TS9](https://zenodo.org/uploads/10797988) - [3]
+- [Harley Benton Green Tint](https://zenodo.org/uploads/10796333) (similar to Ibanez Tube Screamer)
 
 ### Tremolo
 - [Mooer Trelicopter](https://zenodo.org/uploads/10796416)
