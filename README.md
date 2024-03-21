@@ -1,4 +1,10 @@
-# AUDIO EFFECTS DATASET
+<div align="center">
+
+# ToneTwist AFx Dataset
+
+#### _A collection of dry/wet pairs for audio effects research_
+
+</div>
 
 ---
 ## Dry Inputs
