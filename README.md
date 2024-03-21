@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./logo-transp-small.png">
+
 # ToneTwist AFx Dataset
 
 #### _A collection of dry/wet pairs for audio effects research_
