@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo-transp-small.png" width="280">
+<img src="./assets/logo-transp-small.png" width="280">
 
 # ToneTwist AFx Dataset
 
@@ -54,7 +54,7 @@ If you find your work published here and you are not happy, feel free to contact
 
 Controls are expressed in a range from 0 to 10, corresponding to the positions shown below. If you are contributing to this dataset please follow this convention.
 
-<img src="knob.png" width="150">
+<img src="./assets/knob.png" width="150">
 
 ---
 ## Contributions
