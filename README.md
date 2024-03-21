@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo-transp-small.png">
+<img src="./logo-transp-small.png" width="300">
 
 # ToneTwist AFx Dataset
 
