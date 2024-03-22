@@ -144,7 +144,7 @@ Few points:
 ---
 ## References
 
-If you make use of AUDIO EFFECTS DATASET, please cite the following publication:
+If you make use of ToneTwist AFx Dataset, please cite the following publication:
 
 ```
 @article{TBD}
