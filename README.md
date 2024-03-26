@@ -61,6 +61,8 @@ Controls are expressed in a range from 0 to 10, corresponding to the positions s
 
 We invite anyone to contribute to this repo by recording and publishing more data.
 
+### Recording
+
 We assume you are knowleageable enough to know how to do it properly and we do not aim to verify new contributions, but here's some tips:
 - together with the dry inputs we included an Audacity project that can be used to set input/output levels and record everything in 1 step (see README file included with the data for further details)
 - always use an insulated and filtered PSU (e.g., [https://www.thomann.de/gb/harley_benton_powerplant_iso_5_pro.htm](https://www.thomann.de/gb/harley_benton_powerplant_iso_5_pro.htm)) to prevent excessive noise and hum, especially if you are recording high gain effects.
@@ -71,7 +73,7 @@ We assume you are knowleageable enough to know how to do it properly and we do n
 - also, verify that dry inputs and wet outputs are perfectly synchronized using the markers at the start and end of each file (checking the end allows you to verify there's been no data loss during recording)
 - save wet outputs with the same format as dry inputs (wav - 48kHz - 32bit floating point)
 
-## Naming
+### Naming and Folder Structure
 
 Please use the same naming convention and folder structure used across the whole dataset (look at 1 internal and 1 external source for guidance).
 
@@ -98,8 +100,20 @@ FxBrand-FxName
 └── └── README.md
 ```
 
-Few points:
-- 
+Example of dry multiple files sources:
+
+<img src="./assets/folder-structure-dry-internal-example.png" width="500">
+
+Example of wet multiple files sources:
+
+<img src="./assets/folder-structure-wet-internal-example.png" width="640">
+
+Example of dry/wet single file sources:
+
+<img src="./assets/folder-structure-external-example.png" width="500">
+
+
+### Publishing:
 - Please publish your data on zenodo and include all necessary info (again, take a look at 1 external and 1 internal source for guidance).
 - If you use the dry inputs provided here you will be considered as an internal source. Once the data is published on zenodo (don't include the dry files), please send a PR with the link.
 - If you use different dry inputs you will be considered as an external source. Once the data is published on zenodo (include dry and wet files), please send a PR request with the link and an external reference.
