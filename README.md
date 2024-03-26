@@ -113,7 +113,13 @@ Example of dry/wet single file sources:
 <img src="./assets/folder-structure-external-example.png" width="500">
 
 
-### Publishing:
+### ReadMe
+Example of README file for internal source: [README-internal-example](https://github.com/mcomunita/tonetwist-afx-dataset/blob/master/assets/README-internal-example.md)
+
+Example of README file for internal source: [README-external-example](https://github.com/mcomunita/tonetwist-afx-dataset/blob/master/assets/README-external-example.md)
+
+
+### Publishing
 - Please publish your data on zenodo and include all necessary info (again, take a look at 1 external and 1 internal source for guidance).
 - If you use the dry inputs provided here you will be considered as an internal source. Once the data is published on zenodo (don't include the dry files), please send a PR with the link.
 - If you use different dry inputs you will be considered as an external source. Once the data is published on zenodo (include dry and wet files), please send a PR request with the link and an external reference.
