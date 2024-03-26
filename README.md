@@ -43,7 +43,7 @@ This repo contains also links to external sources (i.e., data recorded by others
 The reasons to include and re-publish external sources here are several:
 - completeness: we wanted to gather all the amazing work that's been done by the audio effects research community in one place.
 - accessibility: by storing all data on a reliable platform (zenodo) that's going to be always accessible.
-- consistency: we do not simply linked someone else's work, we took care of verifying, pre-processing (where necessary), renaming, reorganizing - so that you can use any data in this repo straight away (no need to write a new dataset class every time).
+- consistency: we did not simply link someone else's work, we took care of verifying, pre-processing (where necessary), renaming, reorganizing - so that you can use any data in this repo straight away (no need to write a new dataset class every time).
 
 Attributions to the original authors are included in this repo and references to publication, code, webpage, etc., are included in a README file.
 
@@ -71,11 +71,38 @@ We assume you are knowleageable enough to know how to do it properly and we do n
 - also, verify that dry inputs and wet outputs are perfectly synchronized using the markers at the start and end of each file (checking the end allows you to verify there's been no data loss during recording)
 - save wet outputs with the same format as dry inputs (wav - 48kHz - 32bit floating point)
 
+## Naming
+
+Please use the same naming convention and folder structure used across the whole dataset (look at 1 internal and 1 external source for guidance).
+
+```
+FxBrand-FxName
+│   ├── test
+│   │   ├── C(ontrolLetter)1(Control)V(alue)1_C(ontrolLetter)2(Control)V(alue)1_C(ontrolLetter)3(Control)V(alue)1
+│   │   │   ├── C1V1_C2V1_C3V1.test-file1-name.target.wav
+│   │   │   ├── C1V1_C2V1_C3V1.test-file2-name.target.wav
+│   │   │   │ ...
+│   │   │   └── C1V1_C2V1_C3V1.test-filek-name.target.wav
+│   │   ├── C1V2_C2V2_C3V2
+│   │   │ ...
+│   │   └── C1Vn_C2Vn_C3Vn
+│   │── trainval
+│   │   ├── C1V1_C2V1_C3V1
+│   │   │   ├── C1V1_C2V1_C3V1.trainval-file1-name.target.wav
+│   │   │   ├── C1V1_C2V1_C3V1.trainval-file2-name.target.wav
+│   │   │   │ ...
+│   │   │   └── C1V1_C2V1_C3V1.trainval-filem-name.target.wav
+│   │   ├── C1V2_C2V2_C3V2
+│   │   │ ...
+│   │   └── C1Vn_C2Vn_C3Vn
+│   └── README.md
+```
+
 Few points:
-- Please use the same naming convention and folder structure used across the whole dataset (look at 1 internal and 1 external source for guidance).
+- 
 - Please publish your data on zenodo and include all necessary info (again, take a look at 1 external and 1 internal source for guidance).
-- If you use the dry inputs provided here, you will be considered as an internal source. Once the data is published on zenodo, please send a PR with the link.
-- If you use different dry inputs, you will be considered as an external source. Once the data is published on zenodo, please send a PR request with the link and an external reference.
+- If you use the dry inputs provided here you will be considered as an internal source. Once the data is published on zenodo (don't include the dry files), please send a PR with the link.
+- If you use different dry inputs you will be considered as an external source. Once the data is published on zenodo (include dry and wet files), please send a PR request with the link and an external reference.
 
 ---
 ## Analog
