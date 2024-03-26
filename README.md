@@ -95,7 +95,7 @@ FxBrand-FxName
 │   │   ├── C1V2_C2V2_C3V2
 │   │   │ ...
 │   │   └── C1Vn_C2Vn_C3Vn
-│   └── README.md
+└── └── README.md
 ```
 
 Few points:
