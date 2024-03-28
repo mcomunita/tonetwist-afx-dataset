@@ -11,8 +11,6 @@
 ---
 ## Dry Inputs
 
-Available here: [https://zenodo.org/uploads/10455730](https://zenodo.org/uploads/10455730)
-
 Dry inputs are a selection of clean guitar and bass recordings from several sources:
 
 - [IDMT-SMT-GUITAR](https://www.idmt.fraunhofer.de/en/publications/datasets/guitar.html) - dataset 2 (7:23 min)
@@ -139,6 +137,9 @@ Example of README file for internal source: [README-external-example](https://gi
 ---
 ## Analog
 
+### Dry Inputs with markers
+- [https://zenodo.org/uploads/10455730](https://zenodo.org/uploads/10455730)
+
 ### Amplifier/Preamp
 - [Blackstar HT1 - Channel: Overdrive](https://zenodo.org/uploads/10794425) - [1]
 - [Blackstar HT5 Metal - Channel: Overdrive](https://zenodo.org/uploads/10796501) - [2] 
@@ -189,8 +190,15 @@ Example of README file for internal source: [README-external-example](https://gi
 ---
 ## Digital
 
+### Dry Inputs
+- []()
+
 ---
 ## Digital Parametric
+
+### Dry Inputs with markers
+- [https://zenodo.org/uploads/10455730](https://zenodo.org/uploads/10455730)
+
 
 ---
 ## Sources
