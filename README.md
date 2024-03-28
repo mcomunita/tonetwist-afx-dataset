@@ -36,6 +36,18 @@ Pre-processing:
   - signal multiplied by random number every 5 seconds (uniform distribution [0.1, 1.0] = [-20dB, 0dB])
 
 ---
+## Wet Outputs
+
+We organize data into 4 categories:
+
+- [Analog](https://github.com/mcomunita/tonetwist-afx-dataset?tab=readme-ov-file#analog)
+- [Analog Parametric](https://github.com/mcomunita/tonetwist-afx-dataset?tab=readme-ov-file#analog-parametric)
+- [Digital](https://github.com/mcomunita/tonetwist-afx-dataset?tab=readme-ov-file#digital)
+- [Digital Parametric](https://github.com/mcomunita/tonetwist-afx-dataset?tab=readme-ov-file#digital-parametric)
+
+Where _Parametric_ means that the number of sampled controls combinations is sufficient to develop/train a parametric model.
+
+---
 ## External Data
 
 This repo contains also links to external sources (i.e., data recorded by others for scientific publication purposes or personal projects). In these cases the dry inputs will be different from the ones described above and will have a separate link for download.
