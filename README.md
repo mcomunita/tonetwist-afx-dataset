@@ -165,6 +165,7 @@ Example of README file for external source: [README-external-example](https://gi
 
 ### Distortion
 - [DIY Electro Harmonix Big Muff](https://zenodo.org/uploads/10797916) - [3]
+- [Electro Harmonix Big Muff](https://zenodo.org/uploads/10891515) - [1]
 - [Electro Harmonix Metal Muff](https://zenodo.org/uploads/10794659)
 - [Harley Benton Big Fur](https://zenodo.org/uploads/10794737) (similar to Electro Harmonix Big Muff)
 - [Harley Benton Drop Kick](https://zenodo.org/uploads/10794776) (similar to Suhr Riot)
@@ -210,6 +211,16 @@ Example of README file for external source: [README-external-example](https://gi
 ### Dry Inputs with markers
 - [https://zenodo.org/uploads/10455730](https://zenodo.org/uploads/10455730)
 
+### Distortion
+- [Multidrive Pedal Pro M-Distortion](https://zenodo.org/uploads/10901455) (emulation of Boss Metal Zone)
+
+### Fuzz
+- [Multidrive Pedal Pro F-Fuzz](https://zenodo.org/uploads/10901450) (emulation of Fuzz Face Germanium)
+
+### Overdrive
+- [Multidrive Pedal Pro 808-Scream](https://zenodo.org/uploads/10901401) (emulation of Ibanez Tube Screamer 808)
+- [Multidrive Pedal Pro B-Drive](https://zenodo.org/uploads/10901417) (emulation of Boss Blues Driver)
+
 
 ---
 ## Sources
@@ -217,7 +228,7 @@ Example of README file for external source: [README-external-example](https://gi
 [1] - [https://github.com/Alec-Wright/Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)\
 [2] - [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)\
 [3] - [https://github.com/GuitarML](https://github.com/GuitarML)\
-[4] - [https://github.com/mchijmma/DL-AFx](https://github.com/mchijmma/DL-AFx)
+[4] - [https://github.com/mchijmma/DL-AFx](https://github.com/mchijmma/DL-AFx)\
 [5] - [https://github.com/stepanmk/grey-box-amp](https://github.com/stepanmk/grey-box-amp)
 
 ---
