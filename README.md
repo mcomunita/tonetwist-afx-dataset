@@ -187,11 +187,22 @@ Example of README file for external source: [README-external-example](https://gi
 ---
 ## Analog Parametric
 
+### Amplifier/Preamp
+- [Marshall JVM410H - Channel: OD1](https://zenodo.org/uploads/10892012) - [5]
+
 ---
 ## Digital
 
 ### Dry Inputs
-- []()
+- [https://zenodo.org/uploads/10901426](https://zenodo.org/uploads/10901426)
+
+### Compressor/Limiter
+- [Amplitube DComp](https://zenodo.org/uploads/10901328) (emulation of MXR Dyna Comp)
+- [Amplitube Fender Comp](https://zenodo.org/uploads/10901340) (emulation of Fender Cyber-Twin compressor)
+
+### Fuzz
+- [Arturia Rev Spring 636 - Germanium Preamp/Fuzz](https://zenodo.org/uploads/10901350) (emulation of Grampian 636 Spring Reverb)
+- [Custom Dynamic Fuzz](https://zenodo.org/uploads/10901357)
 
 ---
 ## Digital Parametric
@@ -207,6 +218,7 @@ Example of README file for external source: [README-external-example](https://gi
 [2] - [https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master](https://github.com/TSchmitzULG/NeuralNetwork_Comparison/tree/master)\
 [3] - [https://github.com/GuitarML](https://github.com/GuitarML)\
 [4] - [https://github.com/mchijmma/DL-AFx](https://github.com/mchijmma/DL-AFx)
+[5] - [https://github.com/stepanmk/grey-box-amp](https://github.com/stepanmk/grey-box-amp)
 
 ---
 ## References
