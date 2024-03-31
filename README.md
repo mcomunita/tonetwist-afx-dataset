@@ -126,7 +126,7 @@ Example of dry/wet single file sources:
 ### ReadMe
 Example of README file for internal source: [README-internal-example](https://github.com/mcomunita/tonetwist-afx-dataset/blob/master/assets/README-internal-example.md)
 
-Example of README file for internal source: [README-external-example](https://github.com/mcomunita/tonetwist-afx-dataset/blob/master/assets/README-external-example.md)
+Example of README file for external source: [README-external-example](https://github.com/mcomunita/tonetwist-afx-dataset/blob/master/assets/README-external-example.md)
 
 
 ### Publishing
