@@ -131,8 +131,8 @@ Example of README file for external source: [README-external-example](https://gi
 
 ### Publishing
 - Please publish your data on zenodo and include all necessary info (again, take a look at 1 external and 1 internal source for guidance).
-- If you use the dry inputs provided here you will be considered as an internal source. Once the data is published on zenodo (don't include the dry files), please send a PR with the link.
-- If you use different dry inputs you will be considered as an external source. Once the data is published on zenodo (include dry and wet files), please send a PR request with the link and an external reference.
+- If you use the dry inputs provided here you will be considered as an internal source. Once the data is published on zenodo (don't include the dry files), please submit a PR with the link.
+- If you use different dry inputs you will be considered as an external source. Once the data is published on zenodo (include dry and wet files), please submit PR with the link and an external reference.
 
 ---
 ## Analog
