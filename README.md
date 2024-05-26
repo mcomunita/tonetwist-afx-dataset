@@ -32,15 +32,15 @@ If you make use of ToneTwist AFx Dataset, please cite the following publication:
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ---
-- [Dry Inputs](#abstract)
-- [Wet Outputs](#install--usage)
-- [External Data](#inference)
-- [Contributions](#training)
-- [Analog](#style-evaluation)
-- [Analog Parametric](#license)
-- [Digital](#license)
-- [Digital Parametric](#license)
-- [Sources]()
+- [Dry Inputs](#dry-inputs)
+- [Wet Outputs](#wet-outputs)
+- [External Data](#external-data)
+- [Contributions](#contributions)
+- [Analog](#analog)
+- [Analog Parametric](#analog-parametric)
+- [Digital](#digital)
+- [Digital Parametric](#digital-parametric)
+- [Sources](#sources)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
