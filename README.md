@@ -6,7 +6,42 @@
 
 #### _A collection of dry/wet pairs for audio effects research_
 
+[Marco Comunità](https://mcomunita.github.io/)<sup>1</sup>, [Christian J. Steinmetz](http://Christiansteinmetz.com)<sup>1</sup>, [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)<sup>1</sup>
+
+<sup>1</sup> Centre for Digital Music, Queen Mary University of London, UK<br>
+
 </div>
+
+---
+## References
+
+If you make use of ToneTwist AFx Dataset, please cite the following publication:
+
+```BibTex
+@article{comunita2024,
+  title={},
+  author={},
+  booktitle={},
+  pages={},
+  year={2024},
+  organization={IEEE}
+}
+```
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+---
+- [Dry Inputs](#abstract)
+- [Wet Outputs](#install--usage)
+- [External Data](#inference)
+- [Contributions](#training)
+- [Analog](#style-evaluation)
+- [Analog Parametric](#license)
+- [Digital](#license)
+- [Digital Parametric](#license)
+- [Sources]()
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ---
 ## Dry Inputs
@@ -230,12 +265,3 @@ Example of README file for external source: [README-external-example](https://gi
 [3] - [https://github.com/GuitarML](https://github.com/GuitarML)\
 [4] - [https://github.com/mchijmma/DL-AFx](https://github.com/mchijmma/DL-AFx)\
 [5] - [https://github.com/stepanmk/grey-box-amp](https://github.com/stepanmk/grey-box-amp)
-
----
-## References
-
-If you make use of ToneTwist AFx Dataset, please cite the following publication:
-
-```
-@article{TBD}
-```
