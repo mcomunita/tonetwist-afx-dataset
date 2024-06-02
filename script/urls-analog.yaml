@@ -1,0 +1,74 @@
+DRY-with-markers:
+  - "https://zenodo.org/records/10455730/files/DRY-with-markers.zip?download=1"
+
+# Amp/Preamp
+Blackstar-HT1-ChOverdrive:
+  - https://zenodo.org/records/10794425/files/Blackstar-HT1-ChOverdrive.zip?download=1
+Blackstar-HT5M-ChOverdrive:
+  - https://zenodo.org/records/10796501/files/Blackstar-HT5M-ChOverdrive.zip?download=1
+Engl-RetroTube50-ChDrive:
+  - https://zenodo.org/records/10796525/files/Engl-RetroTube50-ChDrive.zip?download=1
+Fender-BluesJr:
+  - https://zenodo.org/records/10797977/files/Fender-BluesJr.zip?download=1
+Ibanez-TSA15-ChCrunch:
+  - https://zenodo.org/records/10796536/files/Ibanez-TSA15-ChCrunch.zip?download=1
+MesaBoogie-550-ChClean:
+  - https://zenodo.org/records/10796557/files/MesaBoogie-550-ChClean.zip?download=1
+MesaBoogie-550-ChCrunch:
+  - https://zenodo.org/records/10796819/files/MesaBoogie-550-ChCrunch.zip?download=1
+MesaBoogie-550-ChBurn:
+  - https://zenodo.org/records/10796547/files/MesaBoogie-550-ChBurn.zip?download=1
+MesaBoogie-MarkV-ChClean:
+  - https://zenodo.org/records/10796829/files/MesaBoogie-MarkV-ChClean.zip?download=1
+MesaBoogie-MarkV-ChCrunch:
+  - https://zenodo.org/records/10796841/files/MesaBoogie-MarkV-ChCrunch.zip?download=1
+MesaBoogie-MarkV-ChExtreme:
+  - https://zenodo.org/records/10796864/files/MesaBoogie-MarkV-ChExtreme.zip?download=1&preview=1
+UA-6176VintageChannelStrip-610B-MicPreamp:
+  - https://zenodo.org/records/10798111/files/UA-6176VintageChannelStrip-610B-MicPreamp.zip?download=1
+
+# Chorus
+LandlordBrewers-DroopChorus:
+  - https://zenodo.org/records/10796408/files/LandlordBrewers-DroopChorus.zip?download=1
+
+# Compressor/Limiter
+Ampeg-OptoComp:
+  - https://zenodo.org/records/10465454/files/Ampeg-OptoComp.zip?download=1
+Flamma-AnalogComp:
+  - https://zenodo.org/records/10794703/files/Flamma-AnalogComp.zip?download=1
+Yuer-DynaCompressor:
+  - https://zenodo.org/records/10796426/files/Yuer-DynaCompressor.zip?download=1
+UA-6176VintageChannelStrip-1176LN-Limiter:
+  - https://zenodo.org/records/10798151/files/UA-6176VintageChannelStrip-1176LN-Limiter.zip?download=1
+
+# Distortion
+DIY-ElectroHarmonix-BigMuff:
+  - https://zenodo.org/records/10797916/files/DIY-ElectroHarmonix-BigMuff.zip?download=1
+ElectroHarmonix-BigMuff:
+  - https://zenodo.org/records/10891515/files/ElectroHarmonix-BigMuff.zip?download=1
+ElectroHarmonix-MetalMuff:
+  - https://zenodo.org/records/10794659/files/ElectroHarmonix-MetalMuff.zip?download=1
+HarleyBenton-BigFur:
+  - https://zenodo.org/records/10794737/files/HarleyBenton-BigFur.zip?download=1
+HarleyBenton-DropKick:
+  - https://zenodo.org/records/10794776/files/HarleyBenton-DropKick.zip?download=1
+HarleyBenton-Plexicon:
+  - https://zenodo.org/records/10796359/files/HarleyBenton-Plexicon.zip?download=1
+HarleyBenton-Rodent:
+  - https://zenodo.org/records/10796378/files/HarleyBenton-Rodent.zip?download=1
+
+# Fuzz
+HarleyBenton-FuzzyLogic:
+  - https://zenodo.org/records/10796322/files/HarleyBenton-FuzzyLogic.zip?download=1
+HarleyBenton-SillyFuzz:
+  - https://zenodo.org/records/10796394/files/HarleyBenton-SillyFuzz.zip?download=1
+
+# Overdrive
+DIY-Klon-Centaur:
+  - https://zenodo.org/records/10797932/files/DIY-Klon-Centaur.zip?download=1
+Fulltone-FullDrive2:
+  - https://zenodo.org/records/10794615/files/Fulltone-FullDrive2.zip?download=1
+Ibanez-TS9:
+  - https://zenodo.org/records/10797988/files/Ibanez-TS9.zip?download=1
+HarleyBenton-GreenTint:
+  - https://zenodo.org/records/10796333/files/HarleyBenton-GreenTint.zip?download=1
