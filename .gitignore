@@ -2,3 +2,5 @@
 .vscode
 .DS_Store
 data
+example_complete
+example_minimal
