@@ -4,7 +4,7 @@
 
 # ToneTwist AFx Dataset
 
-#### _A collection of dry/wet pairs for audio effects research_
+### _a collection of dry/wet pairs for audio effects research_
 
 [Marco Comunità](https://mcomunita.github.io/)<sup>1</sup>, [Christian J. Steinmetz](http://Christiansteinmetz.com)<sup>1</sup>, [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)<sup>1</sup>
 
