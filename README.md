@@ -13,9 +13,9 @@
 </div>
 
 ---
-## References
+## Citation
 
-If you make use of ToneTwist AFx Dataset, please cite the following publication:
+If you find this work useful, please consider citing us:
 
 ```BibTex
 @article{comunita2024,
@@ -28,10 +28,19 @@ If you make use of ToneTwist AFx Dataset, please cite the following publication:
 }
 ```
 
+---
+## Support
+
+To show your support please consider giving this repo a star :star:.
+
+Thanks! :metal:
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ---
+## Index
+
 - [Dry Inputs](#dry-inputs)
 - [Wet Outputs](#wet-outputs)
 - [External Data](#external-data)
