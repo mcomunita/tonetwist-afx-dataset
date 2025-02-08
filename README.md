@@ -1,8 +1,8 @@
 <div align="center">
+<img src="./assets/tonetwist.png" width="250">
+<br><br>
 
-<img src="./assets/logo-transp-small.png" width="280">
-
-# ToneTwist AFx Dataset
+# ToneTwisT AFx Dataset
 
 ### _a collection of dry/wet pairs for audio effects research_
 
