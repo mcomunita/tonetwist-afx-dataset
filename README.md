@@ -6,13 +6,12 @@
 
 **a collection of dry/wet pairs for audio effects research**
 
-[Marco Comunità](https://mcomunita.github.io/)<sup>1</sup>, [Christian J. Steinmetz](http://Christiansteinmetz.com)<sup>1</sup>, [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)<sup>1</sup>
+[Marco Comunità](https://mcomunita.github.io/)<sup>1</sup>, [Christian J. Steinmetz](https://www.christiansteinmetz.com/)<sup>1</sup>, [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)<sup>1</sup>
 
 <sup>1</sup> Centre for Digital Music, Queen Mary University of London, UK<br>
 
 </div>
 
----
 ## Citation
 
 If you find this work useful, please consider citing us:
@@ -28,23 +27,21 @@ If you find this work useful, please consider citing us:
 }
 ```
 
----
 ## Support
 
-To show your support please consider giving this repo a star :star:.
-
-Thanks! :metal:
+To show your support please consider giving this repo a star :star:. Thanks! :metal:
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
----
+
 ## Index
 
 - [Dry Inputs](#dry-inputs)
 - [Wet Outputs](#wet-outputs)
 - [External Data](#external-data)
 - [Contributions](#contributions)
+- [Train](#train)
 - [Analog](#analog)
 - [Analog Parametric](#analog-parametric)
 - [Digital](#digital)
@@ -52,7 +49,7 @@ Thanks! :metal:
 - [Sources](#sources)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
----
+
 ## Dry Inputs
 
 Dry inputs are a selection of clean guitar and bass recordings from several sources:
@@ -77,7 +74,6 @@ Pre-processing:
   - peak normalized to -0.1dBFS
   - signal multiplied by random number every 5 seconds (uniform distribution [0.1, 1.0] = [-20dB, 0dB])
 
----
 ## Wet Outputs
 
 We organize data into 4 categories:
@@ -89,7 +85,6 @@ We organize data into 4 categories:
 
 Where _Parametric_ means that the number of sampled controls combinations is sufficient to develop/train a parametric model.
 
----
 ## External Data
 
 This repo contains also links to external sources (i.e., data recorded by others for scientific publication purposes or personal projects). In these cases the dry inputs will be different from the ones described above and will have a separate link for download.
@@ -103,14 +98,12 @@ Attributions to the original authors are included in this repo and references to
 
 If you find your work published here and you are not happy, feel free to contact us.
 
----
 ## Controls
 
 Controls are expressed in a range from 0 to 10, corresponding to the positions shown below. If you are contributing to this dataset please follow this convention.
 
 <img src="./assets/knob.png" width="150">
 
----
 ## Contributions
 
 We invite anyone to contribute to this repo by recording and publishing more data.
@@ -177,6 +170,9 @@ Example of README file for external source: [README-external-example](https://gi
 - Please publish your data on zenodo and include all necessary info (again, take a look at 1 external and 1 internal source for guidance).
 - If you use the dry inputs provided here you will be considered as an internal source. Once the data is published on zenodo (don't include the dry files), please submit a PR with the link.
 - If you use different dry inputs you will be considered as an external source. Once the data is published on zenodo (include dry and wet files), please submit PR with the link and an external reference.
+
+## Train
+To train a model you can use the [NablAFx](https://github.com/mcomunita/nablafx) framework, which provides everything you need for training with data from ToneTwisT AFx.
 
 ---
 ## Analog
