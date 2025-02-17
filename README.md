@@ -6,9 +6,9 @@
 
 **a collection of dry/wet pairs for audio effects research**
 
-[Marco Comunità](https://mcomunita.github.io/)<sup>1</sup>, [Christian J. Steinmetz](https://www.christiansteinmetz.com/)<sup>1</sup>, [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)<sup>1</sup>
+[Marco Comunità](https://mcomunita.github.io/), [Christian J. Steinmetz](https://www.christiansteinmetz.com/), [Joshua D. Reiss](http://www.eecs.qmul.ac.uk/~josh/)
 
-<sup>1</sup> Centre for Digital Music, Queen Mary University of London, UK<br>
+Centre for Digital Music, Queen Mary University of London, UK<br>
 
 </div>
 
