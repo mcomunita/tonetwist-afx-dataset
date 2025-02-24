@@ -17,6 +17,18 @@ Centre for Digital Music, Queen Mary University of London, UK<br>
 If you find this work useful, please consider citing us:
 
 ```BibTex
+@misc{comunità2025differentiableblackboxgrayboxmodeling,
+      title={Differentiable Black-box and Gray-box Modeling of Nonlinear Audio Effects}, 
+      author={Marco Comunità and Christian J. Steinmetz and Joshua D. Reiss},
+      year={2025},
+      eprint={2502.14405},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2502.14405}, 
+}
+```
+
+```BibTex
 @misc{comunità2025nablafxframeworkdifferentiableblackbox,
       title={NablAFx: A Framework for Differentiable Black-box and Gray-box Modeling of Audio Effects}, 
       author={Marco Comunità and Christian J. Steinmetz and Joshua D. Reiss},
