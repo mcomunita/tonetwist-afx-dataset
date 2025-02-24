@@ -4,7 +4,7 @@
 
 # ToneTwisT AFx Dataset
 
-**a collection of dry/wet pairs for audio effects research**
+**a dataset of dry/wet pairs for audio effects research**
 
 [Paper](https://arxiv.org/abs/2502.14405)
 
