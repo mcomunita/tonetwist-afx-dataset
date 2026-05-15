@@ -6,9 +6,34 @@ Amplitube-DComp:
   - https://zenodo.org/records/10901328/files/Amplitube-DComp.zip?download=1
 Amplitube-FenderComp:
   - https://zenodo.org/records/10901340/files/Amplitube-FenderComp.zip?download=1
+audacity-compressor:
+  - https://zenodo.org/records/20213871/files/audacity-compressor.zip?download=1
 
 # Fuzz
 Arturia-RevSpring636Preamp:
   - https://zenodo.org/records/10901350/files/Arturia-RevSpring636Preamp.zip?download=1
 Custom-DynamicFuzz:
   - https://zenodo.org/records/10901357/files/Custom-DynamicFuzz.zip?download=1
+
+# Distortion
+audacity-distortion:
+  - https://zenodo.org/records/20213928/files/audacity-distortion.zip?download=1
+
+# Reverb
+audacity-reverb:
+  - https://zenodo.org/records/20213970/files/audacity-reverb.zip?download=1
+
+# Effect chains
+Darkface-Chorused:
+  - https://zenodo.org/records/20213113/files/Darkface-Chorused.zip?download=1
+Darkface-O-Driven-Wah:
+  - https://zenodo.org/records/20213376/files/Darkface-O-Driven-Wah.zip?download=1
+Rock-75-Simple-Man:
+  - https://zenodo.org/records/20213568/files/Rock-75-Simple-Man.zip?download=1
+SLO-CloseTones:
+  - https://zenodo.org/records/20213658/files/SLO-CloseTones.zip?download=1
+Top30-Far-Away:
+  - https://zenodo.org/records/20213696/files/Top30-Far-Away.zip?download=1
+audacity-comp-dist-reve:
+  - https://zenodo.org/records/20213747/files/audacity-comp-dist-reve.zip?download=1
+

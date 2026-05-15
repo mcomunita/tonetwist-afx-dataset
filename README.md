@@ -255,10 +255,25 @@ To train a model you can use the [NablAFx](https://github.com/mcomunita/nablafx)
 ### Compressor/Limiter
 - [Amplitube DComp](https://zenodo.org/uploads/10901328) (emulation of MXR Dyna Comp)
 - [Amplitube Fender Comp](https://zenodo.org/uploads/10901340) (emulation of Fender Cyber-Twin compressor)
+- [audacity-compressor](https://zenodo.org/records/20213871)
 
 ### Fuzz
 - [Arturia Rev Spring 636 - Germanium Preamp/Fuzz](https://zenodo.org/uploads/10901350) (emulation of Grampian 636 Spring Reverb)
 - [Custom Dynamic Fuzz](https://zenodo.org/uploads/10901357)
+
+### Distortion
+- [audacity-distortion](https://zenodo.org/records/20213928)
+
+### Reverb
+- [audacity-reverb](https://zenodo.org/records/20213970)
+
+### Effect chains
+- [Darkface-Chorused](https://zenodo.org/records/20213113)
+- [Darkface-O-Driven-Wah](https://zenodo.org/records/20213376)
+- [Rock-75-Simple-Man](https://zenodo.org/records/20213568)
+- [SLO-CloseTones](https://zenodo.org/records/20213658)
+- [Top30-Far-Away](https://zenodo.org/records/20213696)
+- [audacity-comp-dist-reve](https://zenodo.org/records/20213747)
 
 ---
 ## Digital Parametric
